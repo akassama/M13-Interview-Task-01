@@ -1,0 +1,15 @@
+C:\Users\Laiman\Documents\Visual Studio 2019\Projects\Tasks\M13.Interview\M13.InterviewProject\bin\Debug\netcoreapp1.1\appsettings.Development.json
+C:\Users\Laiman\Documents\Visual Studio 2019\Projects\Tasks\M13.Interview\M13.InterviewProject\bin\Debug\netcoreapp1.1\appsettings.json
+C:\Users\Laiman\Documents\Visual Studio 2019\Projects\Tasks\M13.Interview\M13.InterviewProject\bin\Debug\netcoreapp1.1\Properties\launchSettings.json
+C:\Users\Laiman\Documents\Visual Studio 2019\Projects\Tasks\M13.Interview\M13.InterviewProject\bin\Debug\netcoreapp1.1\M13.InterviewProject.deps.json
+C:\Users\Laiman\Documents\Visual Studio 2019\Projects\Tasks\M13.Interview\M13.InterviewProject\bin\Debug\netcoreapp1.1\M13.InterviewProject.runtimeconfig.json
+C:\Users\Laiman\Documents\Visual Studio 2019\Projects\Tasks\M13.Interview\M13.InterviewProject\bin\Debug\netcoreapp1.1\M13.InterviewProject.runtimeconfig.dev.json
+C:\Users\Laiman\Documents\Visual Studio 2019\Projects\Tasks\M13.Interview\M13.InterviewProject\bin\Debug\netcoreapp1.1\M13.InterviewProject.dll
+C:\Users\Laiman\Documents\Visual Studio 2019\Projects\Tasks\M13.Interview\M13.InterviewProject\bin\Debug\netcoreapp1.1\M13.InterviewProject.pdb
+C:\Users\Laiman\Documents\Visual Studio 2019\Projects\Tasks\M13.Interview\M13.InterviewProject\obj\Debug\netcoreapp1.1\M13.InterviewProject.csprojAssemblyReference.cache
+C:\Users\Laiman\Documents\Visual Studio 2019\Projects\Tasks\M13.Interview\M13.InterviewProject\obj\Debug\netcoreapp1.1\M13.InterviewProject.csproj.CoreCompileInputs.cache
+C:\Users\Laiman\Documents\Visual Studio 2019\Projects\Tasks\M13.Interview\M13.InterviewProject\obj\Debug\netcoreapp1.1\M13.InterviewProject.AssemblyInfoInputs.cache
+C:\Users\Laiman\Documents\Visual Studio 2019\Projects\Tasks\M13.Interview\M13.InterviewProject\obj\Debug\netcoreapp1.1\M13.InterviewProject.AssemblyInfo.cs
+C:\Users\Laiman\Documents\Visual Studio 2019\Projects\Tasks\M13.Interview\M13.InterviewProject\obj\Debug\netcoreapp1.1\M13.InterviewProject.dll
+C:\Users\Laiman\Documents\Visual Studio 2019\Projects\Tasks\M13.Interview\M13.InterviewProject\obj\Debug\netcoreapp1.1\M13.InterviewProject.pdb
+C:\Users\Laiman\Documents\Visual Studio 2019\Projects\Tasks\M13.Interview\M13.InterviewProject\obj\Debug\netcoreapp1.1\M13.InterviewProject.genruntimeconfig.cache

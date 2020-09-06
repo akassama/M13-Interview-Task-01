@@ -1,0 +1,12 @@
+2020-09-07 00:59:17.2730 Info Message Template Auto Format enabled
+2020-09-07 00:59:17.3509 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-07 00:59:17.4906 Info Adding target FileTarget(Name=alldata)
+2020-09-07 00:59:17.5265 Info Adding target FileTarget(Name=otherFile-web)
+2020-09-07 00:59:17.6541 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\Laiman\Documents\Visual Studio 2019\Projects\Tasks\M13.Interview\M13.InterviewProject\bin\Debug\netcoreapp3.1\nlog.config
+2020-09-07 00:59:17.6774 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
+2020-09-07 01:01:06.4302 Info Message Template Auto Format enabled
+2020-09-07 01:01:06.4629 Info Loading assembly: NLog.Web.AspNetCore
+2020-09-07 01:01:06.5480 Info Adding target FileTarget(Name=alldata)
+2020-09-07 01:01:06.5631 Info Adding target FileTarget(Name=otherFile-web)
+2020-09-07 01:01:06.6126 Info Validating config: TargetNames=alldata, ConfigItems=44, FilePath=C:\Users\Laiman\Documents\Visual Studio 2019\Projects\Tasks\M13.Interview\M13.InterviewProject\bin\Debug\netcoreapp3.1\nlog.config
+2020-09-07 01:01:06.6271 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: otherFile-web
