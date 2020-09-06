@@ -1,6 +1,3 @@
-# M13-Interview-Task-01
-First task of back-end 
-
 Проект требует Visual Studio 2017, .Net Core 1.1 WebApi (можно установить бесплатную Community версию отсюда https://www.visualstudio.com/ru/thank-you-downloading-visual-studio/?sku=Community&rel=15)
 Также может потребоваться свежий NuGet.exe
 
@@ -8,19 +5,21 @@ First task of back-end
 
 Внимание: данный код специально создан для целей интервью и не является примером кода внутри компании.
 
+# M13-Interview-Task-01
+First task of back-end 
+
 
 ### Development Processes for the Tasks (Update .Net Core version from 1.1 to 3.1)
 * Update the Target Framework
+``` 
+<PropertyGroup>
+	 <TargetFramework>netcoreapp3.1</TargetFramework>
+</PropertyGroup>
+```
 
-
-    <PropertyGroup>
- 	   <TargetFramework>netcoreapp3.1</TargetFramework>
-    </PropertyGroup>
 
 * Removed obsolete package references
-
-
-    
+``` 
  	 <ItemGroup>
         <PackageReference Include="HtmlAgilityPack.NetCore" Version="1.5.0.1" />
         <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />
@@ -29,6 +28,7 @@ First task of back-end
         <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="1.1.1" />
         <PackageReference Include="Newtonsoft.Json" Version="10.0.2" />
     </ItemGroup>
+```
 
 * Update Framework-dependent builds (M13.InterviewProject.runtimeconfig.json)
 
