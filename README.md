@@ -1,11 +1,5 @@
-Проект требует Visual Studio 2017, .Net Core 1.1 WebApi (можно установить бесплатную Community версию отсюда https://www.visualstudio.com/ru/thank-you-downloading-visual-studio/?sku=Community&rel=15)
-Также может потребоваться свежий NuGet.exe
 
-Задача: отрефакторить код в соответствии со своим пониманием чистого и понятного кода. Просьба не тратить на решение больше 3-4 часов. Если нет времени сделать все - можно откомментировать отдельные участки, как на code-review.
-
-Внимание: данный код специально создан для целей интервью и не является примером кода внутри компании.
-
-# M13-Interview-Task-01
+# .Net Core Version Upgrade
 First task of back-end 
 
 
@@ -20,7 +14,7 @@ First task of back-end
 
 * Removed obsolete package references
 ``` 
- 	 <ItemGroup>
+   <ItemGroup>
         <PackageReference Include="HtmlAgilityPack.NetCore" Version="1.5.0.1" />
         <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />
         <PackageReference Include="Microsoft.AspNetCore" Version="1.1.1" />
